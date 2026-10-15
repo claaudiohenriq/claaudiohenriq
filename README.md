@@ -11,7 +11,6 @@ Atualmente retomando minha jornada na tecnologia,
 aprofundando conhecimentos em **Desenvolvimento** e explorando o universo de **Dados**.
 
 🧠 Interesse em:
-- Análise de Dados  
 - Data Science
 - Desenvolvimento Back-End
 
