@@ -12,11 +12,8 @@ aprofundando conhecimentos em **Desenvolvimento** e explorando o universo de **D
 
 🧠 Interesse em:
 - Análise de Dados  
-- Python  
-- SQL  
 - Data Science
-- C#
-- Java
+- Desenvolvimento Back-End
 
 ---
 
